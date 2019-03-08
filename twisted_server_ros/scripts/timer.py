@@ -15,6 +15,9 @@ mins = 0
 # Only run if the user types in "start"
 if run == "start":
     # Loop until we reach 20 minutes running
+    with open('datalog.csv', 'a') as file:
+            file.write(str(datetime.datetime.now()) + ' : session started\n')
+
     while mins != 18:
         print "Minutes elapsed : ", mins
         # Sleep for a minute
@@ -32,6 +35,11 @@ if run == "start":
 
             self.label = Label(master, text="Time is up. \n Run the 'END' instruction in the 'Instructions' tab soon.", background = "red")
             self.label.pack()
+
+        with open('datalog.csv', 'a') as file:
+            file.write(str(datetime.datetime.now()) + ' :  time elapsed\n')
+
+
 
 
 
