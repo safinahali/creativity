@@ -1,0 +1,303 @@
+{
+  "prize-name": "nut",
+  "participant-name": "safinah",
+  "robot-position": [0.6,0.06],
+
+  "greeting-droodle":[
+    ["<es name='Yawn_02' /> Hi. My name is Jibo. <break size='0.5'/> <es cat = 'question'> What is your name? </es> <break size='2.0'/> It is so nice to meet you. <es name='affection_05' /> My favorite activity is to do my favorite dance! <es name='dance_disco_00' /> <es cat = 'question'> What activities do you like? </es>",  "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "introduction-droodle":[
+    ["<es name='excited_01' /> I have a fun game for you today. <es cat='curious'> Do you want to play with me? </es> <break size='2.0'/> <es cat='curious'> Do you like telling stories? </es>  <break size='2.0'/>  We will look at some pictures, <es name='Emoji_Apple'/> and try to think of what they are. <es name='SpinHead_01'/> Let your imagination run wild. <break size='1.0'/> <es cat = 'question'> Come up with as many ideas as you can in 30 seconds. Are you ready?</es> <break size='1.0'/> First,  it is my turn. <es name='Look_Down_01'/> ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+
+  "turn":[
+    ["<es name='excited_01' /> Okay, now it's your turn. Think of as many clever ideas as you can. <es name='Look_Down_01'/> ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "time":[
+    ["Time's up. <es name='excited_01' />  Those were some cool ideas. Now it's my turn. ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "more":[
+    ["What else could it be? ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "good":[
+    ["Oh that's a good one! <es name='excited_01' />  ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+
+
+  "cr1":[
+    [" <es name='Look_Down_01'/> <break size='2.0'/> I think that's a ship and a mountain behind it. <es name='Look_Down_01'/> Or it could be a ship headed towards a shark. <break size='1.0'/> It could be a monster coming out from the ground. <break size='1.0'/> Oh, I know, it could be a mommy triangle looking for a baby triangle.    ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "cr2":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/> Interesting. That could be an apple between two books. <break size='2.0'/> Or it could be the top view of a swimmer. <es name='Look_Down_01'/> <break size='2.0'/> Maybe it's a man balancing a book on his head. <break size='2.0'/> It could even be two knives slicing an orange. ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "cr3":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/> Oh that could be a bird looking for a worm in a hole. <es name='Look_Down_01'/> <break size='2.0'/> Oh, I know. It's a snowman that is melting to the ground.  <break size='2.0'/> It looks like a man could be stuck in the hole and asking for help. <break size='2.0'/> Well, it could also be a very scared ostrich. ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "cr4":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/> Oh I know this one. It could be lots of people watching a rock show. <es name='Look_Down_01'/> <break size='2.0'/> Or it could be a swarm of bees protecting a house. <break size='2.0'/> Maybe it's a person blowing some dust.  <break size='2.0'/> Or it could be a room, after cleaning.<es name='Look_Down_01'/> <break size='2.0'/> Or maybe the box is stinking and it attracted bees.  ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "cr5":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/>That looks like a baseball hat from the top. <es name='Look_Down_01'/> <break size='2.0'/> Or it could be four hockey sticks chasing a ball. <break size='2.0'/> Maybe it's Frodo getting attacked by four enemies.  <break size='2.0'/> Oh I know, it could be a broken fan.", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "n1":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/> That looks like two triangles on top of a surface. <es name='Look_Down_01'/> <break size='3.0'/> Maybe it is shapes floating on water. <break size='2.0'/> I cannot think of more ideas.   ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "n2":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/> That looks like one circle and two rectangles. <es name='Look_Down_01'/> <break size='3.0'/>", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "n3":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/> It looks like two hands coming outside from a hole. <es name='Look_Down_01'/> <break size='2.0'/> Or it could be two small plants growing on the ground.", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "n4":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/> That looks like a square and lots of dots beside it. <es name='Look_Down_01'/> <break size='2.0'/> Maybe, it looks like someone removed all the dust from the box.", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "n5":[
+    ["<es name='Look_Down_01'/> <break size='2.0'/>  I am not too sure. It looks like four sticks and one ball in between. <break size='2.0'/>  Or it could even be a shooting target. ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+
+  "happy":[
+    ["<es name='SpinHead_01'/>  "]
+  ],
+
+  "sad":[
+    ["<es name='Sad_03'/>  "]
+  ],
+
+  "excited":[
+    ["<es name='excited_01'/>  "]
+  ],
+
+  "curious":[
+    ["<es name='Curious_01'/>  "]
+  ],
+
+  "affection":[
+    ["<es name='affection_01'/>  "]
+  ],
+
+  "confused":[
+    ["<es name='confused_04'/>  "]
+  ],
+
+  "worried":[
+    ["<es name='worried_01'/>  "]
+  ],
+
+  "yep":[
+    ["<es name='yep_01'/>  "]
+  ],
+
+  "dance":[
+    ["<es name='dance_disco_00'/>  "]
+  ],
+
+  "lookfront":[
+    ["<es name='look-around-01'/>  "]
+  ],
+
+  "lookup":[
+    ["<es name='Look_Up_01'/>  "]
+  ],
+
+  "lookdown":[
+    ["<es name='Look_Down_01'/>  "]
+  ],
+
+
+  "q1":[
+    ["<es name='Curious_01'/> <es cat = 'question'>  Can you tell me why you did that? </es> " ]
+  ],
+
+
+  "q2":[
+    ["<es name='Curious_01'/> <es cat = 'question'>  Can you tell me what you will do next? </es> " ]
+  ],
+
+  "q3":[
+    [" <es cat = 'question'>  What are you trying to make? </es> " ]
+  ],
+
+  "q4":[
+    [" <es cat = 'question'> Can you tell me how you are going to do that? </es> " ]
+  ],
+
+
+  "c1":[
+    [" <es cat = 'question'> Can you think of another way to do this? </es> "]
+  ],
+
+  "c2":[
+    [" <es cat = 'question'> Can you think of other things you can make your rover do? </es> "]
+  ],
+
+  "c3":[
+    [" <es cat = 'question'>  What else can you make the rover do when an object is near? </es> <break size='1.0'/> <es cat = 'question'>  Can you make it show an image? </es> "]
+  ],
+
+  "c4":[
+    [" <es cat = 'question'>  What new things can we use this for? </es> <break size='1.0'/> Think of some fun uses for your robot.   "]
+  ],
+
+  "c5":[
+    [" There might be a better way to program that. "]
+  ],
+
+  "c6":[
+    [" <es cat = 'proud'/>  That is such a great idea. <break size='1.0'/>  Good job!  "]
+  ],
+
+  "c7":[
+    [" <es cat = 'excited_01'/>  I have an idea! <break size='1.0'/>  Let's try to make an obstacle for the rover's sensor to detect. You can use LEGO blocks to make an obstacle. "]
+  ],
+
+
+  "c8":[
+    [" <es cat = 'excited'>   Good job! </es>  "]
+  ],
+
+
+
+  "f1":[
+    [" <es cat = 'question'>  Did you connect the controller to the Bluetooth? </es> <break size='1.0'/> To connect to Bluetooth, <break size='0.5'/>  select the Bluetooth icon in the top right corner. <break size='1.0'/> Then, select the WeDo controller that you are working with. " ]
+  ],
+
+  "f2":[
+    [" <es cat = 'question'>  Did you check to make sure the controller has batteries? </es> <break size='1.0'/> <es cat = 'question'> Or did you make sure to press the button on the controller to turn it on? </es> " ]
+  ],
+
+  "f3":[
+    [" All parts can be found in the parts box.  <es name = 'look-around-01'> Look carefully. </es> " ]
+  ],
+
+
+
+  "correct":[
+    [" <es name = 'yep_01'> That is correct. </es> " ]
+  ],
+
+  "dontknow":[
+    ["  <es name = 'confused_04'> I don't quite know that. </es> " ]
+  ],
+
+
+  "listening":[
+    ["  <es cat = 'listening'> Go ahead, I am listening. </es> " ]
+  ],
+
+
+
+  "greeting":[
+    ["<es name='excited_01' /> Hi friend. <break size='0.5'/> I am Jibo. <break size='0.5'/> Nice to see you today! <es name = affection_01 /> <break size='0.5'/> <es cat = 'question'> How are you doing? </es> <break size='2.0'/> Today, we will be programming this rover robot to do cool things. <es cat= 'question'> Are you ready to begin? </es>  <break size='2.5'/> <es name = 'SpinHead_01' /> Let's go!",  "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "introduction":[
+    ["<es name='excited_01' /> You already know how to build things with Lego. <break size='1.0'/> My friend and I built this rover that can move! <break size='0.5'/> We will now be programming it together. <break size='1.0'/> Today, we will be using a motion sensor to program it to detect objects. <break size='1.5'/> If you have any questions during the activity, you can ask me!  "]
+  ],
+
+  "parts":[
+    ["You can see two parts of the rover. One is the body, and other is the sensor. <break size='1.0'/> This is a motion sensor that can detect objects around the rover.  "]
+  ],
+
+
+  "attachsensor":[
+    ["First, Try to attach the sensor part to the main body on the rover's arm, on the right side. <break size='5.5'/> Make sure the grey stick goes into the yellow ball on the rover's right side."]
+  ],
+
+
+  "attachsensorwire":[
+    ["Then let's attach the sensor's black wire to the main controller. <break size='1.5'/>  The main controller is on the rover's body in the center. <break size='3.0'/>  You can insert the black wire in the slots on it's back. "]
+  ],
+
+
+  "tablet":[
+    ["Now, it's time to program our rover. <es name='excited_01' />  Turn the tablet on by using the power button on the side of the tablet.<break size='1.0'/> This is your programming screen."]
+  ],
+
+  "interface":[
+    ["<es cat= 'question'> Can you see several buttons on the bottom of the screen? </es> <break size='1.0'/> Those are used to program the rover. <break size='1.0'/> We will be using the sensor and the motor buttons."]
+  ],
+
+  "motor":[
+    ["Let's first find a motor button and try to make the rover move. <break size='1.0'/> <es name='Look_Down_01'> You can find the motor buttons in the button menu below, they are green in color. <break size='4.0'/>  To use any button, drag it from the bottom drawer to the main screen, <break size='1.0'/> </es>  and attach it to the green play button. <break size='4.0'/> Then press on the green play button. "]
+  ],
+
+  "motor2":[
+    ["<es name='Look_Down_01'/> In the blue number box below the green buttons, you can select how much you want the motor to move. "]
+  ],
+
+
+  "sensor":[
+    ["Now, let's try to use the sensor. <break size='1.0'/> <es name='Look_Down_01'> You can use the yellow hourglass clock button to make the robot wait for a command. </es> .  "]
+  ],
+
+
+  "sensor2":[
+    ["Make sure you add it before the motor icon, <break size='1.0'/> so it will turn on the motor only when it senses something.   "]
+  ],
+
+  "sensor3":[
+    ["Now, you can add the small orange motion sensor to the yellow hourglass button. <break size='2.0'/> <es name='Look_Down_01'/> Use the orange sensor button that looks like the one on your rover. <break size='2.0'/> <es name = 'look-around-01'> This tells the rover to wait for something to move around the sensor, and then move. </es> "]
+  ],
+
+  "sensor4":[
+    ["You can try it out on the real robot. <break size='4.0'/>  Try to run it and bring an object near the motion sensor. "]
+  ],
+
+
+  "f4":[
+    ["I can see that you are using the incorrect orange sensor button. <break size='1.0'/>  Look at the sensor on your rover and use the button that looks like that."]
+  ],
+
+
+  "f5":[
+    ["Remember, to sense for an object and then move, the yellow hourglass with the orange sensor button needs to go before the green motor button. "]
+  ],
+
+  "f6":[
+    ["<es name = 'Look_Down_01'>  Click on the Red button on your screen, </es>  to stop the rover "]
+  ],
+
+  "explore":[
+    ["<es cat = 'excited'> You can now play with the rover to make it do different things. </es> "]
+  ],
+
+  "end":[
+    [" Okay, great job today. <es name = 'excited_01' /> <break size='1.0'/> We will now stop for the day. <break size='2.0'/> Thanks so much for playing with me and helping me build the rover. <es cat = 'affection' /> See you next week. <break size='1.0'/> Bye! "]
+  ],
+
+  "stories":{
+    "one": [
+      ["This is my cool story. <es cat='curious' /> "]
+    ],
+    "two": [
+      ["Speech two <es cat='sad' /> ", "YAWN", "LOOKAT_CHILD", "introduction_all_1"]
+    ]
+  },
+
+
+  "conclusion": {
+    "all": [
+      ["We found so many <prize-name>s! <es name = 'affection_01'/> Great job partner! <es name='SpinHead_01' /> ", "conclusion_all_0", "LEFTRIGHTLOOKING", "conclusion_all_0", "HAPPY_DANCE"]
+    ]
+  }
+
+
+}
+
+

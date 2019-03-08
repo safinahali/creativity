@@ -1,0 +1,136 @@
+{
+  "prize-name": "nut",
+  "participant-name": "safinah",
+  "robot-position": [0.6,0.06],
+
+  "greeting":[
+    ["<es name='Yawn_02' /> Hi. My name is Jibo. <break size='0.5'/> <es cat = 'question'> What is your name? </es> <break size='2.0'/> It is so nice to meet you. <es name='affection_05' /> My favorite activity is to do my favorite dance! <es name='dance_disco_00' /> <es cat = 'question'> What activities do you like? </es>",  "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+  "introduction":[
+    ["<es name='excited_01' /> I have a fun game for you today. <es cat='curious'> Do you want to play with me? </es> <break size='2.0'/> <es cat='curious'> Do you like telling stories? </es>  <break size='2.0'/>  We will look at some pictures, <es name='Emoji_Apple'/> and try to think of what they are. <es name='SpinHead_01'/> Let your imagination run wild. <break size='1.0'/> <es cat = 'question'> Come up with as many ideas as you can in 30 seconds. Are you ready?</es> <break size='1.0'/> First,  it is my turn. <es name='Look_Down_01'/> ", "YAWN", "LOOKAT_CHILD", "introduction_all_0"]
+  ],
+
+ 
+  "build1":[
+    ["Let's begin by locating all the parts. All building instructions to follow"]
+  ],
+
+  "build2":[
+    [""]
+  ],
+
+  "build3":[
+    [""]
+  ],
+
+  "build4":[
+    [""]
+  ],
+
+  "build5":[
+    [""]
+  ],
+
+  "code1":[
+    ["Great job. Now let's begin to program the robot. Open the ... on the tablet to start programming. All coding instructions to follow"]
+  ],
+
+  "code2":[
+    [""]
+  ],
+
+  "code3":[
+    [""]
+  ],
+
+  "code4":[
+    [""]
+  ],
+
+  "code5":[
+    [""]
+  ],
+
+  "q1":[
+    ["Can you tell me why you did that? All questions to follow.."]
+  ],
+
+  "q3":[
+    [""]
+  ],
+
+  "q4":[
+    [""]
+  ],
+
+  "c1":[
+    ["Do you think you could do it another way? All creativity prompts to follow.."]
+  ],
+
+  "c2":[
+    [""]
+  ],
+
+  "c3":[
+    [""]
+  ],
+
+  "c4":[
+    [""]
+  ],
+
+  "c5":[
+    [""]
+  ],
+
+  "FAQ1":[
+    ["FAQ - only responses go here. But note down the questions in a separate text file to make for labels in the UI"]
+  ],
+
+  "FAQ2":[
+    [""]
+  ],
+
+  "FAQ3":[
+    [""]
+  ],
+
+  "FAQ4":[
+    [""]
+  ],
+
+  "FAQ5":[
+    [""]
+  ],
+
+
+  "unsure1":[
+    ["I don't know the answer to that. All i don't know answers to follow.."]
+  ],
+
+
+  "unsure2":[
+    [""]
+  ],
+
+
+  "unsure3":[
+    [""]
+  ],
+
+
+
+  "unsure4":[
+    [""]
+  ],
+
+
+  "excited":[
+    ["Don't worry about these - these are just animations, no speech"]
+  ]
+
+
+}
+
+

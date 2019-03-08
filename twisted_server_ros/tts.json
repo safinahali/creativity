@@ -1,0 +1,10 @@
+{
+  "prize-name": "nut",
+  "participant-name": "safinah",
+  "robot-position": [0.6,0.06],
+
+  "currentspeech":[
+    ["<es name='Yawn_02' /> Hi. My name is Jibo. <break size='0.5'/> <es cat = 'question'> What is your name? </es> <break size='2.0'/> It is so nice to meet you. <es name='affection_05' /> My favorite activity is to do my favorite dance! <es name='dance_disco_00' /> <es cat = 'question'> What activities do you like? </es>",  "LOOKAT_CHILD", "introduction_all_0"]
+  ]
+
+}

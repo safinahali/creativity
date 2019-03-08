@@ -1,0 +1,402 @@
+
+
+2019-02-27 15:15:51.319531 : NEW Participant creative
+2019-02-27 15:17:42.743166 : [textentry] : do you have a question?
+2019-02-27 15:18:15.769843 : f3
+2019-02-27 15:18:33.296198 : [textentry] : the sensor is the block on the robot that is connected to the black string
+2019-02-27 15:18:56.151160 : [textentry] : can you find it?
+2019-02-27 15:19:17.649659 : [textentry] : the sensor is on the robot
+2019-02-27 15:19:25.697197 : [textentry] : try attaching it
+2019-02-27 15:19:44.359759 : [textentry] : can you find which one is the sensor?
+2019-02-27 15:21:23.012935 : [textentry] : great job
+2019-02-27 15:21:57.811862 : [textentry] : do you see the black button on the side of the tablet
+2019-02-27 15:22:09.363296 : [textentry] : click that to turn it on
+2019-02-27 15:23:13.454209 : [textentry] : press the power button on the rover
+2019-02-27 15:23:27.733419 : [textentry] : do you see the on button on top?
+2019-02-27 15:23:39.651005 : [textentry] : great
+2019-02-27 15:24:22.483438 : [textentry] : do you see the bluetooth iconn on the top right of the screen?
+2019-02-27 15:24:37.440029 : [textentry] : it is a blue button
+2019-02-27 15:25:33.372701 : [textentry] : select the rover on the bluetooth screen
+2019-02-27 15:27:28.841108 : [textentry] : click on the left side of the screen to close the bluetooth window
+2019-02-27 15:29:35.291040 : q3
+2019-02-27 15:30:13.245662 : c2
+2019-02-27 15:30:35.516439 : [textentry] : try dragging another button onto the screen
+2019-02-27 15:31:26.920241 : q3
+2019-02-27 15:31:35.201758 : c2
+2019-02-27 15:32:24.892747 : c6
+
+
+2019-02-27 15:40:48.179728 : NEW Participant creative
+2019-02-27 15:42:16.217334 : [textentry] : try on the side of the rover
+2019-02-27 15:42:41.060953 : [textentry] : connect on the side with the yellow bacll on the right
+2019-02-27 15:42:50.499124 : [textentry] : the ball
+2019-02-27 15:43:02.578953 : [textentry] : do you see the connector on the back of the rover
+2019-02-27 15:44:02.621803 : [textentry] : try connecting the gray long piece into the yellow ball
+2019-02-27 15:44:19.136982 : [textentry] : great job
+2019-02-27 15:44:46.763848 : [textentry] : turn the tablet on
+2019-02-27 15:45:00.147292 : [textentry] : the black button on the side
+2019-02-27 15:45:17.246764 : [textentry] : this is your programming screen
+2019-02-27 15:45:44.703182 : [textentry] : great it's connected
+2019-02-27 15:47:00.161077 : [textentry] : do you see the green play button on the bottom of the screen
+2019-02-27 15:47:11.438627 : [textentry] : try to find it
+2019-02-27 15:47:16.026825 : [textentry] : try to find it
+2019-02-27 15:47:56.825354 : [textentry] : drag it onto the screen
+2019-02-27 15:48:14.611286 : q3
+2019-02-27 15:48:27.877840 : [textentry] : press the red stop button to stop it
+2019-02-27 15:48:47.424263 : [textentry] : press the stop button on the tablet
+2019-02-27 15:49:05.653871 : c2
+2019-02-27 15:50:09.474138 : [textentry] : can you find the motion sensor block?
+2019-02-27 15:50:17.122113 : [textentry] : its orange
+2019-02-27 15:50:28.732653 : [textentry] : drag it next to the waiting block
+2019-02-27 15:50:42.589522 : [textentry] : the waiting block is the yellow hour glass
+2019-02-27 15:51:04.044159 : [textentry] : drag the orange sesnor block beneath the waiting block
+2019-02-27 15:51:24.457835 : [textentry] : drag the waiting block next to the start button
+2019-02-27 15:51:41.173260 : [textentry] : the waiting block too
+2019-02-27 15:52:05.570097 : [textentry] : make sure the orange sensor is beneath the waiting block
+2019-02-27 15:52:29.785534 : [textentry] : drag the other blocks next to the waiting block
+2019-02-27 15:52:43.923596 : [textentry] : next to it. not beneath it
+2019-02-27 15:53:11.294011 : [textentry] : is the orange block beneath the waiting block
+2019-02-27 15:53:23.078216 : [textentry] : that tells the rover to wait for motion
+2019-02-27 15:53:38.249185 : [textentry] : now drag the other blocks next to the waiting block
+2019-02-27 15:54:01.922801 : [textentry] : try pressing play. see what happens
+2019-02-27 15:54:20.191111 : [textentry] : is the rover sensing motion?
+2019-02-27 15:54:27.477616 : [textentry] : try waiving your hand
+2019-02-27 15:55:20.626468 : [textentry] : try pressing play
+
+2019-02-27 16:08:28.086616 : NEW Participant creative
+2019-02-27 16:12:13.133763 : [textentry] : can you put the tablet on the table so I can see
+2019-02-27 16:12:21.355161 : [textentry] : thanks
+2019-02-27 16:12:27.361610 : [textentry] : thanks
+2019-02-27 16:13:31.757467 : [textentry] : attach another block to the hour glass block
+2019-02-27 16:13:37.921751 : [textentry] : attach another block to the hour glass block
+2019-02-27 16:13:47.365802 : [textentry] : attach another block to the hour glass block
+2019-02-27 16:13:55.553163 : [textentry] : attach another block to the hour glass block
+2019-02-27 16:14:27.310023 : [textentry] : attach another block to the hour glass block
+2019-02-27 16:14:33.905129 : [textentry] : attach another block to the hour glass block
+2019-02-27 16:14:59.014717 : [textentry] : find the orange block that looks like our sensor
+2019-02-27 16:15:04.879985 : [textentry] : find the orange block that looks like our sensor
+2019-02-27 16:16:02.264283 : [textentry] : press the stop button
+2019-02-27 16:16:08.563545 : [textentry] : press the stop button
+2019-02-27 16:17:36.689222 : [textentry] : attach the motor to the sensor icon to make it move
+2019-02-27 16:17:43.877890 : [textentry] : attach the motor to the sensor icon to make it move
+2019-02-27 16:18:23.350356 : c2
+2019-02-27 16:18:31.930017 : c2
+2019-02-27 16:18:52.819091 : c2
+2019-02-27 16:19:19.312303 : q3
+2019-02-27 16:19:26.903621 : q3
+2019-02-27 16:19:44.129073 : c3
+2019-02-27 16:20:41.343730 : q3
+2019-02-27 16:20:55.568313 : c6
+2019-02-27 16:21:31.192578 : [textentry] : see it showed an image. great job
+2019-02-27 16:21:58.810650 : [textentry] : what else can you make the rover do?
+2019-02-27 16:22:39.915549 : [textentry] : can you make it play a song?
+2019-02-27 16:23:47.856049 : [textentry] : try pressing play and see if the song is played
+2019-02-27 16:24:23.435801 : c6
+
+
+2019-02-27 16:32:57.525597 : NEW Participant noncreative
+2019-02-27 16:35:10.112154 : [textentry] : on the side
+2019-02-27 16:35:25.685929 : [textentry] : see where you can fit the rod
+2019-02-27 16:35:41.368899 : [textentry] : other side
+2019-02-27 16:35:50.866997 : [textentry] : try the other side
+2019-02-27 16:35:57.606715 : [textentry] : try the other side
+2019-02-27 16:36:05.995540 : [textentry] : yellow ball
+2019-02-27 16:36:49.289808 : [textentry] : swipe up
+2019-02-27 16:38:53.598196 : [textentry] : wave you hand in front of the sensor
+2019-02-27 16:39:06.591507 : [textentry] : wave you hand in front of the sensor
+2019-02-27 16:39:34.501596 : happy
+2019-02-27 16:39:42.556811 : happy
+2019-02-27 16:40:19.047250 : yep
+2019-02-27 16:40:34.537187 : lookdown
+2019-02-27 16:40:58.132013 : lookup
+2019-02-27 16:41:22.378575 : lookdown
+
+2019-02-27 16:50:07.141481 : NEW Participant creative
+2019-02-27 16:51:35.646068 : [textentry] : yes
+2019-02-27 16:51:51.106074 : [textentry] : yellow ball
+2019-02-27 16:52:49.467077 : [textentry] : can you put down the tablet so I can see?
+2019-02-27 16:53:25.553112 : [textentry] : stop button it's red
+2019-02-27 16:54:05.605087 : [textentry] : yellow hourglass button
+2019-02-27 16:54:13.615656 : [textentry] : yellow hourglass button
+2019-02-27 16:54:26.174303 : [textentry] : add yellow hourglass button
+2019-02-27 16:54:40.101568 : [textentry] : add the yellow hourglass button on tablet
+2019-02-27 16:55:40.912701 : [textentry] : at the bottom of the screen
+2019-02-27 16:56:59.078995 : [textentry] : add a green motor button after
+2019-02-27 16:57:23.632426 : [textentry] : click play and wave your hand in front of the sensor
+2019-02-27 16:58:19.654674 : [textentry] : click play
+2019-02-27 16:58:36.281426 : [textentry] : click play and wave your hand in front of sensor
+2019-02-27 16:58:55.674228 : q2
+2019-02-27 16:59:00.273017 : q2
+2019-02-27 16:59:23.197785 : c2
+2019-02-27 16:59:36.281066 : q3
+2019-02-27 16:59:43.689704 : q3
+2019-02-27 16:59:53.830233 : c6
+2019-02-27 17:00:10.268705 : q1
+2019-02-27 17:00:21.620810 : correct
+2019-02-27 17:00:32.798301 : c3
+2019-02-27 17:00:49.618913 : q2
+2019-02-27 17:01:20.214276 : c6
+2019-02-27 17:01:41.960132 : q1
+2019-02-27 17:01:55.415418 : c6
+
+
+2019-03-01 15:25:14.007473 : NEW Participant creative
+2019-03-01 15:27:18.423791 : [textentry] : attach the gray rod to the yellow ball
+2019-03-01 15:30:33.973662 : [textentry] : the one on the left
+2019-03-01 15:30:44.429177 : [textentry] : the triange gree
+2019-03-01 15:30:55.030291 : [textentry] : triangle green
+2019-03-01 15:31:09.213562 : [textentry] : press stop
+2019-03-01 15:31:18.346161 : [textentry] : red button
+2019-03-01 15:32:05.814559 : [textentry] : yellow button that looks like an hourglass
+2019-03-01 15:32:14.108097 : [textentry] : yellow button that looks like an hourglass
+2019-03-01 15:32:31.682004 : [textentry] : yes
+2019-03-01 15:32:42.164709 : [textentry] : the one you just used
+2019-03-01 15:33:47.808468 : [textentry] : wave your hand in front of the sensor
+2019-03-01 15:34:17.374969 : [textentry] : you need to add a motor button after the hourglass button to make it move
+2019-03-01 15:34:31.757177 : [textentry] : green button
+2019-03-01 15:34:44.488916 : [textentry] : the one you used to make it move
+2019-03-01 15:35:04.663559 : [textentry] : add the hourglass button before the green motor button
+2019-03-01 15:35:21.723357 : [textentry] : the one you just used
+2019-03-01 15:35:33.942041 : [textentry] : it looks like an hourglass. It's yellow
+2019-03-01 15:36:45.959724 : [textentry] : add the yellow hourglass button first, then the green motor button
+2019-03-01 15:37:08.410284 : [textentry] : which one?
+2019-03-01 15:37:17.530770 : [textentry] : yellow
+2019-03-01 15:37:29.668545 : [textentry] : good job
+2019-03-01 15:37:43.976798 : [textentry] : yes good job
+2019-03-01 15:37:56.124961 : [textentry] : now add the green motor button
+2019-03-01 15:38:19.033004 : [textentry] : try waving your hand in front of sensor
+2019-03-01 15:38:31.419718 : [textentry] : on the robot
+2019-03-01 15:38:41.081878 : [textentry] : other side
+2019-03-01 15:38:50.160678 : [textentry] : other side
+2019-03-01 15:38:54.759914 : [textentry] : other side
+2019-03-01 15:39:34.991402 : [textentry] : hit play, then wave your hand in front of sensor on top of the gray rod
+2019-03-01 15:40:26.871359 : [textentry] : good job
+2019-03-01 15:40:50.489129 : c2
+2019-03-01 15:41:01.748672 : q3
+2019-03-01 15:41:17.270612 : c3
+2019-03-01 15:41:33.910166 : q2
+2019-03-01 15:41:49.449155 : c4
+2019-03-01 15:42:02.770356 : c3
+2019-03-01 15:42:28.301843 : [textentry] : good job
+2019-03-01 15:42:40.542238 : c2
+2019-03-01 15:42:53.828315 : q2
+2019-03-01 15:43:09.492467 : c6
+
+
+2019-03-01 16:07:22.714855 : NEW Participant creative
+2019-03-01 16:12:30.919378 : [textentry] : the grey stick should connect to a yellow ball
+2019-03-01 16:13:09.260419 : [textentry] : there should be a yellow ball with a hole for the stick
+2019-03-01 16:13:42.508373 : [textentry] : try turning it the other direction
+2019-03-01 16:14:13.229352 : [textentry] : good job! now the stick should attach to a yellow ball
+2019-03-01 16:14:40.894863 : [textentry] : that's it!
+2019-03-01 16:14:54.337861 : happy
+2019-03-01 16:16:27.589805 : [textentry] : you can scroll through the buttons on the bottom of the screen
+2019-03-01 16:17:35.322581 : [textentry] : if you have any questions, just ask me!
+2019-03-01 16:18:22.633748 : [textentry] : did you find the green buttons on the bottom of the screen?
+2019-03-01 16:18:56.932287 : [textentry] : can you drag one onto the screen?
+2019-03-01 16:19:13.964302 : [textentry] : the play button and the green buttons are different.
+2019-03-01 16:19:48.527112 : [textentry] : there you go!
+2019-03-01 16:20:00.416922 : [textentry] : those are the right ones
+2019-03-01 16:20:46.110546 : [textentry] : you can make the rover stop with the stop button
+2019-03-01 16:22:11.147203 : [textentry] : why don't you try making the rover move at a certain speed?
+2019-03-01 16:22:52.380985 : [textentry] : speed is a number, right?
+2019-03-01 16:23:27.674750 : [textentry] : try making it go faster
+2019-03-01 16:23:52.295767 : [textentry] : good job!
+2019-03-01 16:25:01.512799 : [textentry] : the motion sensor is on the rover
+2019-03-01 16:25:18.370767 : [textentry] : where do you think it is?
+2019-03-01 16:26:26.989104 : [textentry] : it looks like the sensor on your screen isn't the right sensor
+2019-03-01 16:27:07.248108 : [textentry] : remember, the sensor is on the rover
+2019-03-01 16:27:32.385368 : [textentry] : good job!
+2019-03-01 16:27:41.734343 : happy
+2019-03-01 16:27:47.113571 : happy
+2019-03-01 16:28:27.635786 : q3
+2019-03-01 16:29:02.251324 : [textentry] : what are you trying to make the rover do?
+2019-03-01 16:30:03.078724 : [textentry] : what are you trying to make the rover do?
+
+
+2019-03-01 16:35:05.998199 : NEW Participant noncreative
+2019-03-01 16:37:44.407183 : [textentry] : the grey stick should attach to a yellow ball
+2019-03-01 16:39:43.584744 : [textentry] : try scrolling through the buttons at the bottom of the screen
+2019-03-01 16:41:33.372313 : [textentry] : good job!
+2019-03-01 16:41:46.078357 : [textentry] : to make the rover stop, press the stop button
+2019-03-01 16:41:57.590651 : [textentry] : good job!
+2019-03-01 16:43:11.274322 : [textentry] : you have to attach the orange sensor button to the bottom of the hourglass
+2019-03-01 16:43:56.240862 : [textentry] : remember, you have to put a green motor button after the hourglass button
+2019-03-01 16:44:33.667081 : [textentry] : the hourglass should be before the green motor button
+2019-03-01 16:44:49.462436 : [textentry] : to make the motion sensor work, wave your hand in front of the rover
+2019-03-01 16:45:17.122306 : [textentry] : that might not be the right sensor. try another one
+2019-03-01 16:46:10.763522 : [textentry] : that might not be the right sensor
+2019-03-01 16:47:05.306491 : [textentry] : do you know where the sensor on the robot is?
+2019-03-01 16:47:33.650386 : [textentry] : try hitting play and waving your hand in front of the rover
+2019-03-01 16:48:06.936685 : [textentry] : it looks like the robot isn't moving. try to change the green motor button to a different green button
+2019-03-01 16:48:33.689343 : [textentry] : good job!
+
+2019-03-01 16:52:04.662168 : NEW Participant creative
+2019-03-01 16:53:47.856449 : [textentry] : look where the other black wire is
+2019-03-01 16:53:59.401470 : [textentry] : turn it around
+2019-03-01 16:54:25.257684 : [textentry] : the grey stick should attach to a yellow ball
+2019-03-01 16:54:52.246255 : [textentry] : you might have to remove it from where you put it
+2019-03-01 16:55:03.871738 : [textentry] : that's it
+2019-03-01 16:56:24.715404 : [textentry] : press the green play button
+2019-03-01 16:56:34.941164 : [textentry] : good job!
+2019-03-01 16:56:48.476869 : [textentry] : to make the rover stop, hit the stop button 
+2019-03-01 16:57:02.839955 : [textentry] : why don't you try changing the speed of the rover?
+2019-03-01 16:57:28.617579 : [textentry] : good job!
+2019-03-01 16:58:27.971899 : [textentry] : use the motion sensor that looks like the one on the rover
+2019-03-01 16:58:53.093413 : [textentry] : you attached the sensor to the rover a few minutes ago
+2019-03-01 16:59:14.451799 : [textentry] : try hitting play again
+2019-03-01 16:59:33.202976 : [textentry] : if it isn't working, you might be using the wrong sensor
+2019-03-01 16:59:59.512671 : [textentry] : good job!
+2019-03-01 17:00:32.577742 : [textentry] : when you have an idea, tell me what you're trying to make the rover do!
+2019-03-01 17:01:05.446494 : c1
+2019-03-01 17:01:54.009894 : q4
+2019-03-01 17:02:12.544702 : c6
+2019-03-01 17:02:35.358253 : [textentry] : that sounds right
+2019-03-01 17:03:58.709023 : q4
+2019-03-01 17:04:26.573061 : [textentry] : good job!
+2019-03-01 17:04:52.596772 : [textentry] : good job!
+2019-03-01 17:05:23.283397 : [textentry] : i'm not sure, but try it out!
+2019-03-01 17:05:48.178630 : [textentry] : what do you think it does?
+2019-03-01 17:06:33.339963 : [textentry] : cool! i learned something new too.
+2019-03-01 17:06:52.676083 : [textentry] : good idea
+2019-03-01 17:07:00.541610 : [textentry] : that's okay
+2019-03-01 17:07:38.907859 : [textentry] : i'm glad to see you trying so many different ways to solve the problem
+2019-03-01 17:09:05.357455 : c6
+
+2019-03-06 12:18:05.431249 : NEW Participant creative
+2019-03-06 12:19:56.094254 : [textentry] : attach it to the yellow ball
+2019-03-06 12:20:14.072555 : [textentry] : The grey stick goes in the yellow ball
+2019-03-06 12:20:33.142798 : correct
+2019-03-06 12:22:52.377964 : [textentry] : you used the backwards motor button
+2019-03-06 12:24:52.912480 : [textentry] : are you using the sensor yet?
+2019-03-06 12:25:58.190038 : [textentry] : Use the other orange button that looks like your sensor
+2019-03-06 12:26:09.528417 : [textentry] : Use the other orange button that looks like your sensor
+2019-03-06 12:26:47.910627 : [textentry] : your sensor is too close to the body so it always sees something
+2019-03-06 12:27:36.314162 : correct
+
+
+
+2019-03-06 16:15:58.988426 : NEW Participant creative
+2019-03-06 16:19:11.057837 : [textentry] : yep that's right
+2019-03-06 16:20:39.217465 : [textentry] : go ahead and turn on the tablet
+2019-03-06 16:22:10.497593 : [textentry] : press the button on top of the rover
+2019-03-06 16:23:52.359068 : [textentry] : try to find the motor icon
+2019-03-06 16:24:48.439610 : [textentry] : click and drag the icons onto the screen
+2019-03-06 16:26:27.249986 : [textentry] : try fidning the hour glass icon
+2019-03-06 16:26:45.634307 : [textentry] : does that icon look like an hour glass
+2019-03-06 16:27:08.875667 : [textentry] : great job
+2019-03-06 16:28:07.138660 : [textentry] : which of those orange icons look like the one on the rover
+2019-03-06 16:28:26.674767 : [textentry] : try the other one
+2019-03-06 16:28:35.605689 : [textentry] : try the other one
+2019-03-06 16:28:43.348985 : [textentry] : sorry nevermind
+2019-03-06 16:29:01.881367 : [textentry] : great. make sure the hour glass is in front of the green motor icon
+2019-03-06 16:29:18.003384 : [textentry] : great job
+2019-03-06 16:29:47.270636 : [textentry] : the motion sensor is on the rover
+2019-03-06 16:29:58.968749 : [textentry] : try waiving your hand in front of the rover
+2019-03-06 16:30:16.077887 : [textentry] : try to find the motion sensor on the rover
+2019-03-06 16:30:47.279798 : [notes] : she had trouble finding where the mtion sensor was on the rover
+2019-03-06 16:31:14.877763 : [textentry] : waive your hand in front of the sensor
+
+
+2019-03-06 16:35:12.518815 : NEW Participant creative
+2019-03-06 16:37:38.319716 : [textentry] : di you see the yellow ball on the side of the rover
+2019-03-06 16:37:56.710845 : [textentry] : great job
+2019-03-06 16:39:24.888772 : [textentry] : try dragging a motor icon onto the screen
+2019-03-06 16:39:37.764954 : [textentry] : yes any
+2019-03-06 16:40:16.290748 : [textentry] : try to select a motor icon. that one is for changing colors
+2019-03-06 16:41:20.368183 : [textentry] : try attaching that one to the play button
+2019-03-06 16:41:36.278186 : [textentry] : remove the color changing icon
+2019-03-06 16:41:45.174325 : [textentry] : great job
+2019-03-06 16:42:16.362613 : [textentry] : try pressing play to see if the rover moves
+2019-03-06 16:42:27.529373 : f6
+2019-03-06 16:42:31.891003 : f6
+2019-03-06 16:43:18.658213 : [textentry] : is that the yellow hour glass icon?
+2019-03-06 16:43:31.442992 : [textentry] : great job
+2019-03-06 16:44:31.594349 : [textentry] : attach the orange sensor icon to the yellow hour glass icon
+2019-03-06 16:44:44.936494 : [textentry] : geat job
+2019-03-06 16:45:23.483996 : [textentry] : try pressing play and putting something in front of the motion sensor on the rover
+2019-03-06 16:45:55.913194 : [textentry] : press play and waive your hand in front of the rover's sensor
+2019-03-06 16:46:46.638504 : c2
+2019-03-06 16:47:17.568349 : c3
+2019-03-06 16:47:50.661046 : [textentry] : press play and try it out
+2019-03-06 16:48:23.419305 : c3
+2019-03-06 16:49:08.464446 : [textentry] : great job
+2019-03-06 16:49:19.849184 : c2
+2019-03-06 16:49:36.702857 : [textentry] : can you make it play music
+2019-03-06 16:50:10.664958 : q3
+2019-03-06 16:50:24.925809 : [textentry] : go ahead tell me
+2019-03-06 16:50:25.297904 : q3
+2019-03-06 16:50:40.867760 : c6
+2019-03-06 16:50:53.755024 : c3
+2019-03-06 16:51:34.864036 : c6
+2019-03-06 16:51:44.664083 : c2
+2019-03-06 16:52:44.995709 : [textentry] : try out some of the other icons and see what they do
+2019-03-06 16:54:24.698526 : c6
+2019-03-06 16:58:20.063074 : c6
+
+
+2019-03-07 23:39:26.432229 : NEW Participant creative
+2019-03-07 23:39:38.851173 : c4
+
+2019-03-07 23:40:16.481909 : NEW Participant creative
+
+2019-03-08 00:50:50.908916 : NEW Participant creative
+2019-03-08 00:51:25.197724 : correct
+2019-03-08 00:51:36.243421 : correct
+2019-03-08 00:51:43.578264 : dontknow
+2019-03-08 00:51:54.935620 : dontknow
+2019-03-08 00:52:01.929718 : listening
+2019-03-08 00:52:18.844036 : listening
+2019-03-08 00:52:43.216169 : listening
+
+2019-03-08 00:53:30.566857 : NEW Participant creative
+2019-03-08 00:53:43.525599 : listening
+2019-03-08 00:54:13.021989 : listening
+2019-03-08 00:54:30.509076 : listening
+2019-03-08 00:54:42.094740 : f6
+
+2019-03-08 02:24:41.464806 : NEW Participant creative
+
+2019-03-08 02:26:10.041949 : NEW Participant creative
+
+2019-03-08 02:28:09.136958 : NEW Participant creative
+
+2019-03-08 02:30:28.656236 : NEW Participant creative
+
+2019-03-08 02:31:05.059538 : NEW Participant creative
+
+2019-03-08 02:33:01.069652 : NEW Participant creative
+
+2019-03-08 02:33:25.673618 : NEW Participant noncreative
+
+2019-03-08 02:34:11.773203 : NEW Participant creative
+
+2019-03-08 02:35:20.414412 : NEW Participant creative
+
+2019-03-08 02:36:09.448269 : NEW Participant creative
+
+2019-03-08 02:40:46.602034 : NEW Participant creative
+
+2019-03-08 02:41:19.598991 : NEW Participant noncreative
+
+2019-03-08 02:46:57.351400 : NEW Participant creative
+
+2019-03-08 02:48:42.470465 : NEW Participant creative
+
+2019-03-08 02:50:47.292174 : NEW Participant creative
+
+2019-03-08 02:52:02.697922 : NEW Participant creative
+
+2019-03-08 02:52:57.961610 : NEW Participant creative
+
+2019-03-08 02:53:50.268284 : NEW Participant creative
+
+2019-03-08 03:05:46.932657 : NEW Participant noncreative
+
+2019-03-08 03:07:25.923207 : NEW Participant noncreative
+
+2019-03-08 03:18:50.430543 : NEW Participant creative
+
+2019-03-08 03:20:05.772366 : NEW Participant creative
+
+2019-03-08 03:20:38.778994 : NEW Participant creative
