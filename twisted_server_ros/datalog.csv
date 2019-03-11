@@ -335,3 +335,352 @@
 2019-03-06 16:58:20.063074 : c6
 
 
+
+2019-03-08 15:10:15.705108 : NEW Participant creative
+2019-03-08 15:10:43.157853 : q1
+2019-03-08 15:13:59.892333 : session started
+
+2019-03-08 15:21:45.828101 : NEW Participant creative
+2019-03-08 15:21:51.482326 : session started
+2019-03-08 15:24:07.108153 : c8
+2019-03-08 15:24:57.834151 : [textentry] : you almost got it
+2019-03-08 15:25:52.801576 : [textentry] : you have the right idea
+2019-03-08 15:26:10.082369 : [textentry] : do you have any questions for me?
+2019-03-08 15:26:38.564163 : c8
+2019-03-08 15:26:51.934176 : [notes] : maybe add a "do you have any questions for me?" command 
+2019-03-08 15:27:10.759384 : [textentry] : the button on the side of the tablet
+2019-03-08 15:27:28.479208 : [textentry] : how do you think you need to turn on the tablet?
+2019-03-08 15:27:51.924145 : [textentry] : do you have a question?
+2019-03-08 15:28:05.102485 : [textentry] : you almost got it
+2019-03-08 15:28:14.795827 : [textentry] : look for the button
+2019-03-08 15:28:57.319621 : [textentry] : did you find the button to turn on the tablet?
+2019-03-08 15:29:20.854224 : [textentry] : press the button hard
+2019-03-08 15:30:01.086483 : [textentry] : you almost got it
+2019-03-08 15:30:12.658939 : [textentry] : it's on the side closest to you
+2019-03-08 15:30:42.744717 : [textentry] : swipe up
+2019-03-08 15:32:21.655621 : [textentry] : go to the app called wedo
+2019-03-08 15:32:30.173047 : [textentry] : can you try making the motor on your robot move?
+2019-03-08 15:32:46.957294 : [textentry] : use the green blocks at the bottom
+2019-03-08 15:33:04.111880 : [textentry] : and drag it into the white space
+2019-03-08 15:33:19.997317 : [textentry] : next to the button with the green triangle
+2019-03-08 15:33:36.186381 : c8
+2019-03-08 15:33:39.658130 : [textentry] : hit play
+2019-03-08 15:33:51.248960 : [textentry] : press the button with the green triangle
+2019-03-08 15:34:05.982105 : [textentry] : stop it with the red square
+2019-03-08 15:34:18.699362 : c8
+2019-03-08 15:34:51.362956 : [textentry] : can you try changing the values in the blue boxes?
+2019-03-08 15:35:06.335110 : [textentry] : hit stop
+2019-03-08 15:35:18.777875 : [textentry] : can you try changing the values in the blue boxes?
+2019-03-08 15:35:19.673151 : c8
+2019-03-08 15:35:49.830083 : [textentry] : drag the number into the blue box
+2019-03-08 15:36:04.659205 : [textentry] : move the number into the blue box
+2019-03-08 15:36:35.988464 : c8
+2019-03-08 15:36:41.823771 : [textentry] : stop the robot
+2019-03-08 15:36:52.801345 : f6
+2019-03-08 15:37:26.880112 : [textentry] : yellow hourglass button at the bottom of your screen
+2019-03-08 15:37:40.614928 : [textentry] : it looks like an hourglass
+2019-03-08 15:38:06.073385 : [textentry] : do you know what an hourglass looks like?
+2019-03-08 15:38:20.605202 : [textentry] : do you know what an hourglass looks like
+2019-03-08 15:38:32.392602 : [textentry] : do you know what an hourglass looks like
+2019-03-08 15:38:46.585103 : [textentry] : do you know what an hourglass looks like
+2019-03-08 15:39:10.663559 : [textentry] : do you know what an hourglass looks like
+2019-03-08 15:39:21.239495 : c8
+2019-03-08 15:39:30.558247 : [textentry] : the one you had put was the right one
+2019-03-08 15:39:37.825185 :  time elapsed
+2019-03-08 15:39:50.739947 : end
+
+2019-03-08 15:51:06.290524 : NEW Participant creative
+2019-03-08 15:51:10.802563 : session started
+2019-03-08 15:52:56.552455 : c8
+2019-03-08 15:54:02.883274 : c8
+2019-03-08 15:54:16.817059 : [textentry] : try another one
+2019-03-08 15:54:41.870675 : f6
+2019-03-08 15:54:49.874146 : c8
+2019-03-08 15:55:13.731692 : [textentry] : yes
+2019-03-08 15:55:41.968715 : [textentry] : try again
+2019-03-08 15:56:07.165125 : [textentry] : hmm I'm not sure
+2019-03-08 15:56:25.807007 : [textentry] : yes you can try
+2019-03-08 15:56:48.447220 : c8
+2019-03-08 15:57:14.958651 : [textentry] : yellow hourglass button at the bottom
+2019-03-08 15:57:27.200507 : c8
+2019-03-08 15:58:06.710053 : [textentry] : yes
+2019-03-08 15:58:11.309035 : [textentry] : yes
+2019-03-08 15:58:25.199606 : c8
+2019-03-08 15:58:39.152018 : c2
+2019-03-08 15:58:51.842525 : c3
+2019-03-08 15:59:02.806272 : c3
+2019-03-08 15:59:17.177354 : [textentry] : i think so
+2019-03-08 15:59:43.013071 : c8
+2019-03-08 15:59:48.769568 : q3
+2019-03-08 16:00:02.174634 : c8
+2019-03-08 16:00:07.943007 : c6
+2019-03-08 16:00:23.256302 : q4
+2019-03-08 16:00:38.009365 : c1
+2019-03-08 16:01:08.469997 : q3
+2019-03-08 16:01:26.541660 : q3
+2019-03-08 16:01:36.140101 : q3
+2019-03-08 16:01:49.668978 : q3
+2019-03-08 16:01:59.335932 : q3
+
+2019-03-08 16:03:01.248523 : NEW Participant creative
+2019-03-08 16:03:05.835851 : session started
+2019-03-08 16:03:19.460018 : [notes] : re-started the last study
+2019-03-08 16:03:29.307803 : q3
+2019-03-08 16:03:48.516767 : q2
+2019-03-08 16:07:26.266283 : [textentry] : hi
+2019-03-08 16:07:39.539436 : q3
+2019-03-08 16:07:51.621023 : q4
+2019-03-08 16:08:02.886583 : c8
+2019-03-08 16:08:07.492503 : c6
+2019-03-08 16:08:21.585609 : end
+
+2019-03-08 16:14:21.768874 : NEW Participant creative
+2019-03-08 16:14:27.242605 : session started
+2019-03-08 16:16:09.935203 : c8
+2019-03-08 16:17:34.239608 : f6
+2019-03-08 16:18:08.111327 : q3
+2019-03-08 16:18:19.897369 : q3
+2019-03-08 16:18:36.594967 : [textentry] : yes, that one
+2019-03-08 16:18:48.898347 : [textentry] : the bottom blue box
+2019-03-08 16:18:53.502185 : [textentry] : the bottom blue box
+2019-03-08 16:20:32.009022 : c8
+2019-03-08 16:20:45.521497 : c2
+2019-03-08 16:21:04.410594 : q3
+2019-03-08 16:21:24.736924 : q4
+2019-03-08 16:21:45.441473 : c6
+2019-03-08 16:21:54.379902 : c1
+2019-03-08 16:22:09.409085 : c8
+2019-03-08 16:22:19.611826 : c4
+2019-03-08 16:22:38.884827 : c8
+2019-03-08 16:22:46.435052 : c6
+2019-03-08 16:22:56.373414 : c3
+2019-03-08 16:23:17.759034 : q3
+2019-03-08 16:23:29.673310 : c6
+2019-03-08 16:23:51.274063 : c3
+2019-03-08 16:24:15.649652 : c2
+2019-03-08 16:24:20.231476 : c2
+2019-03-08 16:24:39.127341 : c8
+2019-03-08 16:24:46.962617 : c1
+2019-03-08 16:24:57.334860 : c1
+2019-03-08 16:25:04.101615 : c1
+2019-03-08 16:25:14.562998 : c7
+2019-03-08 16:26:28.127278 : c2
+2019-03-08 16:27:07.845782 : c4
+2019-03-08 16:27:28.850971 : [textentry] : Hey Tony, what else are you going to do?
+2019-03-08 16:27:42.667175 : [textentry] : Hey Tony
+2019-03-08 16:27:54.011988 : q3
+2019-03-08 16:28:23.796798 : q3
+2019-03-08 16:28:34.357573 : c2
+2019-03-08 16:28:56.246374 : c2
+2019-03-08 16:29:34.327690 : c7
+2019-03-08 16:30:32.608550 : q3
+2019-03-08 16:30:41.595514 : c8
+2019-03-08 16:31:07.119682 : [textentry] : it's ok, you just have to keep thinking
+2019-03-08 16:31:25.318047 : [textentry] : great!
+2019-03-08 16:31:54.451618 : [textentry] : hey, I can't see
+2019-03-08 16:32:06.047054 : [textentry] : Can you show me?
+2019-03-08 16:32:19.307620 : [textentry] : Can you show me?
+2019-03-08 16:32:27.937850 :  time elapsed
+2019-03-08 16:32:37.009541 : end
+
+2019-03-08 16:36:54.821631 : NEW Participant creative
+2019-03-08 16:36:58.529384 : session started
+2019-03-08 16:38:50.576892 : c8
+2019-03-08 16:39:11.355654 : c8
+2019-03-08 16:41:05.549978 : [textentry] : try another one
+2019-03-08 16:41:30.197202 : c8
+2019-03-08 16:41:49.814716 : f6
+2019-03-08 16:42:33.438506 : f6
+2019-03-08 16:43:19.038500 : c8
+2019-03-08 16:44:33.466428 : c8
+2019-03-08 16:44:38.106823 : c8
+2019-03-08 16:44:52.591029 : c3
+2019-03-08 16:45:09.914126 : q3
+2019-03-08 16:45:24.395794 : q3
+2019-03-08 16:45:35.768705 : q4
+2019-03-08 16:45:50.909890 : q2
+2019-03-08 16:46:09.355511 : c2
+2019-03-08 16:46:23.649992 : q3
+2019-03-08 16:46:34.395740 : q3
+2019-03-08 16:46:43.493825 : c6
+2019-03-08 16:47:01.354457 : c8
+2019-03-08 16:47:10.492476 : c2
+2019-03-08 16:47:25.957778 : q2
+2019-03-08 16:47:50.594162 : c6
+2019-03-08 16:48:00.302332 : c7
+2019-03-08 16:48:34.875150 : [textentry] : what obstacle will you make?
+2019-03-08 16:49:09.915007 : [textentry] : please stay seated so I can see you
+2019-03-08 16:49:37.114259 : [textentry] : wow amazing
+2019-03-08 16:49:52.540673 : q2
+2019-03-08 16:50:04.972635 : q2
+2019-03-08 16:50:22.688136 : c6
+2019-03-08 16:50:45.474943 : q4
+2019-03-08 16:51:03.577695 : q4
+2019-03-08 16:51:21.694552 : c1
+2019-03-08 16:51:44.824164 : q3
+2019-03-08 16:51:57.550096 : [textentry] : cool like what
+2019-03-08 16:52:10.554180 : [textentry] : can you show me?
+2019-03-08 16:52:18.958691 : [textentry] : can you show me?
+2019-03-08 16:52:57.301764 : c8
+2019-03-08 16:53:18.422471 : c1
+2019-03-08 16:53:26.534396 : [textentry] : yes
+2019-03-08 16:53:31.137167 : [textentry] : yes
+2019-03-08 16:53:35.758754 : [textentry] : yes
+2019-03-08 16:53:40.355742 : [textentry] : yes
+2019-03-08 16:53:44.941537 : [textentry] : yes
+2019-03-08 16:54:04.104653 : c7
+2019-03-08 16:54:37.999149 : q4
+2019-03-08 16:54:59.500593 :  time elapsed
+2019-03-08 16:55:03.776675 : end
+
+2019-03-09 13:36:10.099878 : NEW Participant creative
+2019-03-09 13:38:06.352997 : session started
+2019-03-09 13:40:48.363937 : [textentry] : can you attach the black stick in the yellow ball?
+2019-03-09 13:40:58.691868 : [textentry] : can you attach the black stick in the yellow ball?
+2019-03-09 13:41:12.947951 : [textentry] : the black stick from the sensor
+2019-03-09 13:41:47.171675 : [textentry] : the black stick from the sensor
+2019-03-09 13:42:13.156246 : [notes] : are you listening to me button
+2019-03-09 13:43:13.419531 : q3
+2019-03-09 13:46:29.255756 : q3
+2019-03-09 13:47:32.850090 : q2
+2019-03-09 13:47:41.612312 : q2
+2019-03-09 13:48:52.871335 : lookdown
+2019-03-09 13:49:08.288839 : lookup
+2019-03-09 13:49:23.005906 : q2
+2019-03-09 13:49:43.592050 : c8
+2019-03-09 13:50:25.951320 : sad
+2019-03-09 13:50:39.455245 : sad
+2019-03-09 13:50:53.290385 : q2
+2019-03-09 13:51:30.438525 : curious
+2019-03-09 13:51:36.292584 : curious
+2019-03-09 13:51:49.835354 : worried
+2019-03-09 13:51:51.933608 : q2
+2019-03-09 13:52:05.374531 : lookfront
+2019-03-09 13:52:17.548422 : q3
+2019-03-09 13:52:28.548404 : q3
+2019-03-09 13:52:49.466000 : c6
+2019-03-09 13:53:03.318267 : excited
+2019-03-09 13:53:15.723931 : c6
+2019-03-09 13:54:22.430474 : q1
+2019-03-09 13:56:07.299840 :  time elapsed
+
+2019-03-09 14:10:15.592350 : NEW Participant creative
+2019-03-09 14:41:47.239013 : happy
+2019-03-09 14:42:16.296876 : c6
+
+2019-03-09 14:43:20.495836 : NEW Participant creative
+2019-03-09 14:43:45.795509 : session started
+2019-03-09 14:45:30.531552 : c8
+2019-03-09 14:46:41.168749 : c8
+2019-03-09 14:47:56.191682 : [textentry] : it is on the ipad
+2019-03-09 14:48:06.825827 : [textentry] : it is on the ipad
+2019-03-09 14:50:30.983921 : c8
+2019-03-09 14:50:41.263018 : f6
+2019-03-09 14:52:11.928468 : [textentry] : can you find the yellow hourglass button in the menu below?
+2019-03-09 14:52:27.636067 : [textentry] : It's yellow in color
+2019-03-09 14:52:56.362580 : lookdown
+2019-03-09 14:52:58.527910 : [textentry] : swipe to the other side
+2019-03-09 14:53:05.993590 : [textentry] : swipe to the other side
+2019-03-09 14:53:17.665232 : affection
+2019-03-09 14:53:24.305305 : [textentry] : in the drawer below
+2019-03-09 14:53:31.722943 : [textentry] : in the drawer below
+2019-03-09 14:53:41.487575 : [textentry] : in the drawer below
+
+2019-03-09 14:54:08.647142 : NEW Participant creative
+2019-03-09 14:54:21.746496 : listening
+2019-03-09 14:54:31.499019 : [textentry] : in the menu below
+2019-03-09 14:54:46.166195 : [textentry] : swipe right
+2019-03-09 14:55:19.499984 : c2
+2019-03-09 14:55:27.763171 : [textentry] : yes
+2019-03-09 14:55:56.734545 : f5
+2019-03-09 14:56:20.695683 : correct
+2019-03-09 14:57:50.772395 : f4
+2019-03-09 14:57:56.946006 : f4
+2019-03-09 14:58:13.589360 : correct
+2019-03-09 14:58:33.558306 : [textentry] : can you show me the robot
+2019-03-09 14:58:50.411486 : [textentry] : the lego bot
+2019-03-09 14:59:06.107282 : correct
+2019-03-09 15:00:50.651276 : [textentry] : did you run the code?
+2019-03-09 15:00:58.875217 : [textentry] : did you run the code?
+2019-03-09 15:01:14.830837 : [textentry] : did you run the GREEN PLAY BUTTON?
+2019-03-09 15:01:25.604312 : [textentry] : ON THE TABLET
+2019-03-09 15:01:36.095012 : [textentry] : RUN IT
+2019-03-09 15:01:45.452781 : correct
+2019-03-09 15:02:22.456958 : c3
+2019-03-09 15:02:44.818358 : [textentry] : FIND AN IMAGE BUTTON ON THE TABLET
+2019-03-09 15:02:54.553460 : [textentry] : ITS RED
+2019-03-09 15:03:11.291372 : [textentry] : NO
+2019-03-09 15:03:25.308126 : [textentry] : IN THE BUTTON DRAWER
+2019-03-09 15:04:23.574381 : dontknow
+2019-03-09 15:04:33.424325 : [textentry] : LIKE A PICTURE
+2019-03-09 15:04:51.463958 : correct
+2019-03-09 15:05:03.760016 : q2
+2019-03-09 15:05:23.336328 : lookdown
+2019-03-09 15:05:33.458118 : c3
+2019-03-09 15:05:46.138005 : c4
+2019-03-09 15:06:20.441838 : c7
+2019-03-09 15:07:19.254086 : [textentry] : WHATEVER YOU LIKE
+2019-03-09 15:07:29.083894 : [textentry] : HOW ABOUT A FORT
+2019-03-09 15:08:44.858330 : end
+
+2019-03-09 16:10:25.301016 : NEW Participant creative
+2019-03-09 16:10:29.124603 : session started
+2019-03-09 16:11:45.008051 : [textentry] : can you pick the sensor?
+2019-03-09 16:12:01.080701 : [textentry] : it has a big black stick
+2019-03-09 16:13:06.840581 : c8
+2019-03-09 16:14:57.468985 : [textentry] : can you keep the tablet on the table so i can see it?
+2019-03-09 16:15:09.112602 : f6
+2019-03-09 16:15:40.587552 : [textentry] : the yelllow hourglass button
+2019-03-09 16:15:55.379178 : correct
+2019-03-09 16:16:13.655197 : f5
+2019-03-09 16:16:38.589509 : c8
+2019-03-09 16:17:24.331748 : f6
+2019-03-09 16:17:47.164983 : c8
+2019-03-09 16:18:02.256880 : f4
+2019-03-09 16:18:35.636563 : f4
+2019-03-09 16:18:45.384097 : [textentry] : use the other orange one
+2019-03-09 16:18:59.046780 : [textentry] : the orange one
+2019-03-09 16:19:13.427272 : correct
+2019-03-09 16:19:20.956203 : correct
+2019-03-09 16:19:50.056560 : correct
+2019-03-09 16:19:58.078659 : correct
+2019-03-09 16:21:03.066966 : [textentry] : run the code with the green play button on your screen
+2019-03-09 16:21:20.844630 : [textentry] : now bring an object near the rovers sensor
+2019-03-09 16:21:36.506921 : c8
+2019-03-09 16:21:43.013982 : f6
+2019-03-09 16:22:06.896388 : q3
+2019-03-09 16:22:28.300903 : q4
+2019-03-09 16:23:59.823496 : c3
+2019-03-09 16:24:18.704709 : [textentry] : try to find the red button that looks like an image
+2019-03-09 16:24:52.204065 : q2
+2019-03-09 16:25:13.064520 : c8
+2019-03-09 16:25:28.481177 : c4
+2019-03-09 16:26:09.601883 : q2
+2019-03-09 16:26:20.618308 : [textentry] : cAN YOU KEEP THE tablet on the table so I can see it?
+2019-03-09 16:26:31.566588 : [notes] : tablet on table, sit on chair
+2019-03-09 16:26:54.112637 : lookdown
+2019-03-09 16:27:22.175743 : excited
+2019-03-09 16:27:40.043721 : q3
+2019-03-09 16:28:23.940015 : c6
+2019-03-09 16:28:29.950989 :  time elapsed
+2019-03-09 16:28:36.650688 : [notes] : that is so cool.
+2019-03-09 16:29:35.294451 : c7
+2019-03-09 16:29:40.078301 : [notes] : more concrete ideas
+2019-03-09 16:30:49.914201 : q3
+2019-03-09 16:31:07.750808 : yep
+2019-03-09 16:31:42.681436 : [textentry] : iiif you removed other buttons, it wont do anything
+2019-03-09 16:31:55.138599 : [textentry] : if you removed other buttons, it wont do anything
+2019-03-09 16:33:14.516700 : [textentry] : to make the rover move, you need to add a green motor button
+2019-03-09 16:33:39.826402 : c8
+2019-03-09 16:33:46.626180 : end
+
+
+2019-03-11 15:59:44.384988 : NEW Participant creative
+
+2019-03-11 16:00:40.309780 : NEW Participant creative
+
+2019-03-11 16:27:11.838407 : NEW Participant creative
+2019-03-11 16:27:50.958173 : session started
+
+2019-03-11 16:30:41.651585 : NEW Participant creative
+2019-03-11 16:30:50.650848 : happy

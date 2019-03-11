@@ -137,6 +137,10 @@
     [" <es cat = 'question'> Can you tell me how you are going to do that? </es> " ]
   ],
 
+  "q5":[
+    [" <es cat = 'question'> Do you have any questions for me? </es> " ]
+  ],
+
 
   "c1":[
     [" <es cat = 'question'> Can you think of another way to do this? </es> "]
@@ -172,6 +176,11 @@
   ],
 
 
+   "c9":[
+    [" <es cat = 'excited_01'/>  I have a cool idea! <break size='1.0'/> <es cat = 'question'> Can you make the rover move when you wave your hand in front of the sensor, and stop when you wave your hand again? </es> "]
+  ],
+
+
 
   "f1":[
     [" <es cat = 'question'>  Did you connect the controller to the Bluetooth? </es> <break size='1.0'/> To connect to Bluetooth, <break size='0.5'/>  select the Bluetooth icon in the top right corner. <break size='1.0'/> Then, select the WeDo controller that you are working with. " ]
@@ -191,6 +200,11 @@
     [" <es name = 'yep_01'> That is correct. </es> " ]
   ],
 
+
+  "yes":[
+    [" <es name = 'yep_01'> Yes </es> " ]
+  ],
+
   "dontknow":[
     ["  <es name = 'confused_04'> I don't quite know that. </es> " ]
   ],
@@ -201,9 +215,14 @@
   ],
 
 
+  "sit":[
+    ["  <es cat = 'question'> Can you keep the tablet on the table and sit in the chair, so I can see all the cool things you are doing? </es> " ]
+  ],
+
+
 
   "greeting":[
-    ["<es name='excited_01' /> Hi friend. <break size='0.5'/> I am Jibo. <break size='0.5'/> Nice to see you today! <es name = affection_01 /> <break size='0.5'/> <es cat = 'question'> How are you doing? </es> <break size='2.0'/> Today, we will be programming this rover robot to do cool things. <es cat= 'question'> Are you ready to begin? </es>  <break size='2.5'/> <es name = 'SpinHead_01' /> Let's go!",  "LOOKAT_CHILD", "introduction_all_0"]
+    ["<es name='excited_01' /> Hi friend. <break size='0.5'/> I am Jibo. <break size='0.5'/> Nice to see you today! <es name = affection_01 /> <break size='0.5'/> <es cat = 'question'> How are you doing? </es> <break size='2.0'/> Today, we will be programming this rover robot to do cool things. <es cat= 'question'> Are you ready to begin? </es>  <break size='2.5'/>  Let's go! <es name = 'SpinHead_01' />",  "LOOKAT_CHILD", "introduction_all_0"]
   ],
 
   "introduction":[

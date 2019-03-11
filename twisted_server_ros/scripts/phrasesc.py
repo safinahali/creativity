@@ -31,6 +31,9 @@ class MyFirstGUI:
         self.greet_button = Button(master, text="How are you going to do that?", command=self.q4)
         self.greet_button.pack()
 
+        self.greet_button = Button(master, text="Do you have any questions for me?", command=self.q5)
+        self.greet_button.pack()
+
         self.label = Label(master, text="\n Creative Prompts")
         self.label.pack()
 
@@ -50,6 +53,9 @@ class MyFirstGUI:
         self.greet_button.pack() 
 
         self.greet_button = Button(master, text="Make your own obstacle for the sensor", command=self.c7)
+        self.greet_button.pack() 
+
+        self.greet_button = Button(master, text="idea: move when you wave hand, stop when you wave hand.", command=self.c9)
         self.greet_button.pack() 
 
         self.greet_button = Button(master, text="That is such a great idea.", command=self.c6)
@@ -87,6 +93,10 @@ class MyFirstGUI:
         self.label.pack()
 
 
+        self.greet_button = Button(master, text="Yes", command=self.yes)
+        self.greet_button.pack()
+
+
         self.greet_button = Button(master, text="Correct", command=self.correct)
         self.greet_button.pack()
 
@@ -94,6 +104,9 @@ class MyFirstGUI:
         self.greet_button.pack()
 
         self.greet_button = Button(master, text="I am Listening", command=self.listening)
+        self.greet_button.pack()
+
+        self.greet_button = Button(master, text="Sit in chair, tablet on table", command=self.sit)
         self.greet_button.pack()
 
 
@@ -133,6 +146,16 @@ class MyFirstGUI:
 
         with open('datalog.csv', 'a') as file:
             file.write(str(datetime.datetime.now()) + ' : q4\n')
+
+
+
+    def q5(self):
+        print("Greetings!")
+        subprocess.call('./test_jibo_anim.py scripts/speech.json q5', shell=True)
+
+        with open('datalog.csv', 'a') as file:
+            file.write(str(datetime.datetime.now()) + ' : q5\n')
+
 
     def c1(self):
         print("Greetings!")
@@ -196,6 +219,14 @@ class MyFirstGUI:
             file.write(str(datetime.datetime.now()) + ' : c8\n')
 
 
+    def c9(self):
+        print("Greetings!")
+        subprocess.call('./test_jibo_anim.py scripts/speech.json c9', shell=True)
+
+        with open('datalog.csv', 'a') as file:
+            file.write(str(datetime.datetime.now()) + ' : c9\n')
+
+
     def f1(self):
         print("Greetings!")
         subprocess.call('./test_jibo_anim.py scripts/speech.json f1', shell=True)
@@ -244,9 +275,6 @@ class MyFirstGUI:
             file.write(str(datetime.datetime.now()) + ' : f6\n')
 
 
-
-
-
     def good(self):
         print("Greetings!")
         subprocess.call('./test_jibo_anim.py scripts/speech.json good', shell=True)
@@ -274,8 +302,25 @@ class MyFirstGUI:
         with open('datalog.csv', 'a') as file:
             file.write(str(datetime.datetime.now()) + ' : correct\n')
 
+    def sit(self):
+        print("Greetings!")
+        subprocess.call('./test_jibo_anim.py scripts/speech.json sit', shell=True)
+    
+
+        with open('datalog.csv', 'a') as file:
+            file.write(str(datetime.datetime.now()) + ' : sit\n')
+
 
     
+    def yes(self):
+        print("Greetings!")
+        subprocess.call('./test_jibo_anim.py scripts/speech.json yes', shell=True)
+    
+
+        with open('datalog.csv', 'a') as file:
+            file.write(str(datetime.datetime.now()) + ' : yes\n')
+
+
     def listening(self):
         print("Greetings!")
         subprocess.call('./test_jibo_anim.py scripts/speech.json listening', shell=True)
