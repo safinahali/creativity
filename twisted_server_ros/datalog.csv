@@ -684,3 +684,171 @@
 
 2019-03-11 16:30:41.651585 : NEW Participant creative
 2019-03-11 16:30:50.650848 : happy
+2019-03-11 16:32:50.422599 : [notes] : child was unsure if they could talk to Jibo or not
+2019-03-11 16:32:56.680570 : [textentry] : give it a try
+2019-03-11 16:33:39.703248 : [textentry] : yes that's great attach to the back
+2019-03-11 16:33:52.984638 : [textentry] : yes
+2019-03-11 16:34:10.881836 : [textentry] : try attaching the wire to the back of the rover
+2019-03-11 16:34:35.600022 : c8
+2019-03-11 16:34:47.580356 : [textentry] : keep trying that's the right place
+2019-03-11 16:34:57.985775 : c8
+2019-03-11 16:35:31.232799 : [notes] : child did not want to talk to Jibo
+2019-03-11 16:35:57.719004 : [textentry] : can you place the tablet on the table so I can see
+2019-03-11 16:36:07.167396 : [textentry] : thanks
+2019-03-11 16:36:54.797242 : f6
+2019-03-11 16:37:02.392146 : c8
+2019-03-11 16:38:09.547680 : c8
+2019-03-11 16:38:56.214514 : [notes] : child asked if they can use a pencil as an object for the rover to sense
+2019-03-11 16:39:12.404570 : lookdown
+2019-03-11 16:39:22.628394 : c3
+2019-03-11 16:39:47.133735 : c6
+2019-03-11 16:39:57.482813 : [textentry] : try pressing play first
+2019-03-11 16:40:12.637196 : c8
+2019-03-11 16:42:14.116252 : c7
+2019-03-11 16:43:09.370235 : c6
+2019-03-11 16:43:37.297322 : q3
+2019-03-11 16:45:13.315247 : [notes] : no video recordging 
+2019-03-11 16:45:48.198268 : q3
+2019-03-11 16:45:57.980735 : listening
+2019-03-11 16:47:19.084383 : end
+
+2019-03-11 16:50:37.505040 : NEW Participant creative
+2019-03-11 16:54:48.522608 : session started
+2019-03-11 16:57:29.114185 : c8
+2019-03-11 16:58:39.325254 : [textentry] : try finding the green button that is for the motor
+2019-03-11 16:59:20.254205 : c8
+2019-03-11 16:59:26.474242 : f6
+2019-03-11 17:00:26.734075 : [notes] : had to click 'Sensor' a few times before Jibo said the sensor instructions
+2019-03-11 17:01:20.482517 : correct
+2019-03-11 17:01:29.254550 : correct
+2019-03-11 17:01:34.946790 : c8
+2019-03-11 17:01:46.977505 : [textentry] : try adding the motor icon after the motion sensor
+2019-03-11 17:02:18.920821 : [textentry] : try adding the green motor icon after the motion sensor
+2019-03-11 17:03:07.864335 : [textentry] : try the other orange motion sensor icon
+2019-03-11 17:04:22.447718 : [textentry] : try pressing play first
+2019-03-11 17:04:35.722682 : c8
+2019-03-11 17:04:46.651791 : c3
+2019-03-11 17:05:36.423729 : c6
+2019-03-11 17:05:57.818232 : f6
+2019-03-11 17:06:18.886164 : q3
+2019-03-11 17:06:28.575585 : listening
+2019-03-11 17:06:37.544842 : q3
+2019-03-11 17:06:57.966316 : c2
+2019-03-11 17:07:09.746483 : end
+
+2019-03-13 15:39:18.123204 : NEW Participant noncreative
+2019-03-13 15:42:05.682750 : session started
+2019-03-13 15:46:52.275556 : f6
+2019-03-13 15:47:22.072250 : [textentry] : can you find the yellow hour glass icon
+2019-03-13 15:48:56.292111 : [textentry] : try pressing play first
+2019-03-13 15:49:14.941713 : [notes] : had to play the Sensor Orange Button twice before the child understood that he had to add the orange button
+2019-03-13 15:49:41.420589 : [textentry] : try pressing play again and then wave your hand
+2019-03-13 15:58:06.520339 : end
+
+2019-03-13 16:00:16.724008 : NEW Participant noncreative
+
+2019-03-13 16:00:46.645497 : NEW Participant noncreative
+2019-03-13 16:02:17.475613 : dance
+2019-03-13 16:06:39.187469 : [notes] : Greeting played twice
+2019-03-13 16:06:47.750113 : [notes] : Greeting played twice
+2019-03-13 16:07:40.160192 : [textentry] : Do you see the sensor and wire next to the rover
+2019-03-13 16:09:43.740869 : f6
+2019-03-13 16:12:54.886295 : [textentry] : is the hour glass icon before the motor?
+2019-03-13 16:14:13.448110 : [textentry] : do you have the correct orange sensor?
+2019-03-13 16:17:25.825261 : end
+
+2019-03-13 16:22:02.300751 : NEW Participant noncreative
+2019-03-13 16:22:09.539373 : session started
+2019-03-13 16:24:49.457359 : [notes] : didn't have to play the Attach Sensor Wire command because the child already attached it without instructions to do so
+2019-03-13 16:24:55.755846 : f6
+2019-03-13 16:25:23.084973 : f6
+2019-03-13 16:35:17.727332 : [notes] : child seemed a bit bored since Jibo wasn't giving any prompts in the noncreative. child turned to me several times looking like he wondered what to do next
+2019-03-13 16:36:08.114570 : end
+
+2019-03-13 16:39:41.605899 : NEW Participant noncreative
+
+2019-03-13 16:40:00.292470 : NEW Participant noncreative
+2019-03-13 16:40:04.145143 : session started
+2019-03-13 16:40:54.678451 : [notes] : Greeting command played twice
+2019-03-13 16:40:56.103839 : [notes] : Greeting command played twice
+2019-03-13 16:43:26.528849 : [notes] : did not have to play the Attach Sensor Wire command because the child did so without needing the command
+2019-03-13 16:43:51.008726 : f6
+2019-03-13 16:44:50.530422 : f6
+2019-03-13 16:46:20.836487 : [textentry] : find the yellow hour glass icon
+2019-03-13 16:46:57.467665 : [textentry] : drag the yellow hour glass icon in front of the green motor icon
+2019-03-13 16:47:33.298900 : [textentry] : is the yellow hour glass icon in front of the green motor icon?
+2019-03-13 16:48:03.994291 : [textentry] : drag the yellow hour glass icon in front of the green motor icon
+2019-03-13 16:48:36.739766 : correct
+2019-03-13 16:49:52.839080 : [textentry] : is the orange sensor button attached to the yellow hour glass icon?
+2019-03-13 16:50:32.496260 : [textentry] : make sure the orange sensor button is attached to the yellow hour glass icon
+2019-03-13 16:50:44.947300 : [textentry] : not the yellow loop
+2019-03-13 16:51:23.904023 : correct
+2019-03-13 16:52:11.764297 : [textentry] : is the motor icon attached to the yellow hour glass icon?
+2019-03-13 16:52:46.337206 : [textentry] : 
+2019-03-13 16:53:05.357363 : [textentry] : move the green motor icon n between the play button and the yellow hour glass icon
+2019-03-13 16:53:22.485612 : correct
+2019-03-13 16:57:18.448606 : end
+
+2019-03-15 16:07:17.771515 : NEW Participant noncreative
+2019-03-15 16:12:39.169174 : session started
+2019-03-15 16:14:11.733428 : [textentry] : that's right
+2019-03-15 16:14:31.571705 : [textentry] : that's correct
+2019-03-15 16:16:33.045853 : [textentry] : ouch
+2019-03-15 16:17:11.502789 : [textentry] : scroll through the buttons at the bottom of the screen to find the blue buttons
+2019-03-15 16:17:45.542396 : [textentry] : you might be using the wrong motor button
+2019-03-15 16:18:07.162424 : [textentry] : there should be motor buttons that you can attach blue buttons to
+2019-03-15 16:18:32.872729 : [textentry] : the motor buttons are green
+2019-03-15 16:19:06.531961 : [textentry] : that looks like the right button
+2019-03-15 16:20:13.372676 : [textentry] : that doesn't look like the hourglass button
+2019-03-15 16:20:28.261288 : [textentry] : no
+2019-03-15 16:20:43.032357 : [textentry] : try another yellow button that looks like an hour glass
+2019-03-15 16:21:07.087645 : [textentry] : hourglass
+2019-03-15 16:22:05.348943 : [textentry] : 
+2019-03-15 16:22:45.511427 : [textentry] : that's not where the motion sensor is
+2019-03-15 16:22:57.707931 : [textentry] : remember, you attached the sensor to the robot
+2019-03-15 16:23:18.439296 : [textentry] : you have to stop the robot first
+2019-03-15 16:23:27.415637 : [textentry] : yes that is the sensor
+2019-03-15 16:23:38.220031 : [textentry] : yes
+2019-03-15 16:23:48.752484 : [textentry] : hit the play button to try it out
+2019-03-15 16:24:03.460243 : [textentry] : you did it
+2019-03-15 16:26:56.903529 : end
+2019-03-15 16:30:39.960031 :  time elapsed
+
+2019-03-15 16:32:04.113284 : NEW Participant noncreative
+
+2019-03-15 16:32:47.678170 : NEW Participant noncreative
+2019-03-15 16:33:56.948338 : session started
+2019-03-15 16:36:02.195934 : [textentry] : no
+2019-03-15 16:36:10.529298 : [textentry] : closer
+2019-03-15 16:36:21.989876 : [textentry] : look for the yellow ball
+2019-03-15 16:36:42.164582 : correct
+2019-03-15 16:36:51.446171 : correct
+2019-03-15 16:37:44.735111 : [textentry] : also, please lay the tablet flat so i can see it
+2019-03-15 16:38:10.344676 : [textentry] : also, please lay the tablet flat so i can see it
+2019-03-15 16:38:58.852464 : [textentry] : ouch
+2019-03-15 16:39:49.386765 : [textentry] : in the drawer on the tablet
+2019-03-15 16:41:09.759419 : f4
+2019-03-15 16:41:18.311325 : f4
+2019-03-15 16:42:11.249953 : [textentry] : good job
+2019-03-15 16:43:46.006555 : [textentry] : ttthere is always noise around
+2019-03-15 16:43:50.642429 : [textentry] : ttthere is always noise around
+2019-03-15 16:44:37.798331 : [textentry] : i'm not sure. try it out and seee
+2019-03-15 16:45:18.620664 : [textentry] : ahhh
+2019-03-15 16:45:40.160918 : [textentry] : stop hitting me with the rover!
+
+2019-03-18 17:54:46.097569 : NEW Participant creative
+2019-03-18 17:54:56.932705 : happy
+2019-03-18 17:55:40.721269 : happy
+
+2019-07-29 16:19:34.840880 : NEW Participant creative
+
+2019-07-29 16:20:45.046139 : NEW Participant creative
+
+2019-07-29 16:21:38.151064 : NEW Participant creative
+2019-07-29 16:21:50.137412 : session started
+
+2019-07-29 18:46:12.565075 : NEW Participant creative
+
+2019-07-29 19:43:59.855030 : NEW Participant creative
+
+2019-10-01 15:31:37.810486 : NEW Participant creative

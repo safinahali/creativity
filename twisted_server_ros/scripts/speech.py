@@ -72,11 +72,11 @@ class MyFirstGUI:
             
 
 
-        self.label = Label(master, text="\n Enter your text here")
+        self.label = Label(master, text="\n Enter Jibo Speech here")
         self.label.pack()
 
 
-	e = Entry(master)
+	e = Entry(master, width = 50, bd = 3)
 	e.pack()
 	e.focus_set()
 

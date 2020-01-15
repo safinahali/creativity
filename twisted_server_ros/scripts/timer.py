@@ -18,7 +18,7 @@ if run == "start":
     with open('datalog.csv', 'a') as file:
             file.write(str(datetime.datetime.now()) + ' : session started\n')
 
-    while mins != 18:
+    while mins != 1:
         print "Minutes elapsed : ", mins
         # Sleep for a minute
         time.sleep(60)
